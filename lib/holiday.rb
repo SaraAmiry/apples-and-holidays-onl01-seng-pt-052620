@@ -29,7 +29,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
   
   holiday_supplies.each do |key, value|
     value.each do |key2, value2|
-      value2 << "Balloons"
+      value2 << "Tree"
   end
 end
 end
